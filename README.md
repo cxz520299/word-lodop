@@ -6,6 +6,6 @@
 
 ## 线上地址
 
-请看 [文档地址](http://euzhi.com/wordtolodop/).
+请看 [线上地址](http://euzhi.com/wordtolodop/).
 
 ### 下载安装即可（没有任何病毒）如果有帮助到你节约时间可以给我个star吗，谢谢
